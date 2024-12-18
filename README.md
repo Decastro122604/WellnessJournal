@@ -129,14 +129,7 @@ Here is a screenshot of the MySQL table after running the program:
 - Integrate **chart libraries** to display mood trends over time.  
 - Enhance the user interface using a **GUI** framework like JavaFX.  
 
----
-
-## 🧑‍💻 **Developer**  
-**[Your Name]**  
-- Email: `your.email@example.com`  
-- GitHub: [Your GitHub Profile](#)
-
----
 
 ## 💡 **Conclusion**  
+The Mental Wellness Journal is a great way to track your daily reflections, promoting a healthy mindset through consistent journaling. By integrating Java with MySQL, this project demonstrates the power of programming in building tools that positively impact well-being.
 The **Mental Wellness Journal** is a great way to track your daily reflections, promoting a **healthy mindset** through consistent journaling. By integrating Java with MySQL, this project demonstrates the power of programming in building tools that positively impact well-being.
